@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>Hackathon - Base Ball Hack Day</h1>
     <NavBar/>
     <router-view></router-view>
   </div>
